@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navb {
+    width: 100%;
+}
+.logo img{
+    width: 80px;
+}
+@font-face {
+    font-family: myfont;
+    src: url(myfont/OFL.txt);
+}
+.logotext h2{
+    font-family: "myfont";
+    font-size: 17px;
+    font-weight: bold;
+}
+ 
