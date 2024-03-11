@@ -3,6 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+    --dark-blue: #0a1d3c;
+    --light-gray: #e5e5e5;
+    --white: #fff;
+    --light-peach: #f9e3bc;
+    --dark-gray: #3e3f43;
+    --light-black: #1d1d1d;
+}
 @font-face {
     font-family: myfont;
     src: url(myfont/OFL.txt);
