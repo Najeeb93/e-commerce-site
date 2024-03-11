@@ -17,6 +17,7 @@
 }
 .navb {
     width: 100%;
+    display: flex;
 }
 .logo img{
     width: 70px;
@@ -29,5 +30,12 @@
     font-size: 14px;
     font-weight: bold;
     margin-left: 15px;
+}
+.navlinks{
+    display: flex;
+    
+}
+.navlinks ul {
+    list-style-type: none;
 }
  
