@@ -17,7 +17,8 @@
 }
 .navb {
     width: 100%;
-    display: flex;
+   display: flex;
+    
 }
 .logo img{
     width: 70px;
@@ -32,10 +33,16 @@
     margin-left: 15px;
 }
 .navlinks{
+    width: 30%;
     display: flex;
+    background-color: blue;
+    display: flex;
+   
+    
     
 }
-.navlinks ul {
-    list-style-type: none;
+.nav-text ul {
+    list-style: none;
 }
+
  
