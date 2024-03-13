@@ -20,6 +20,10 @@
    display: flex;
     
 }
+.logo {
+    width: 40%;
+    background-color: red;
+}
 .logo img{
     width: 70px;
     margin-left: 15px;
@@ -33,15 +37,19 @@
     margin-left: 15px;
 }
 .navlinks{
-    width: 30%;
-    display: flex;
+    width: 55%;
     background-color: blue;
-    display: flex;
+    
    
     
     
 }
 .nav-text ul {
+    display: flex;
+   justify-content: space-around;
+   
+   
+   
     list-style: none;
 }
 
