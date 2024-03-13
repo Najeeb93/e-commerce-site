@@ -47,6 +47,7 @@
 .nav-text ul {
     display: flex;
    justify-content: space-around;
+   padding-top: 30px;
    
    
    
