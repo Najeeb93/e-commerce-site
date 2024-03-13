@@ -21,13 +21,14 @@
     
 }
 .logo {
-    width: 40%;
-    background-color: red;
+    width: 30%;
+  
 }
 .logo img{
     width: 70px;
-    margin-left: 15px;
+    margin-left: 30px;
     margin-top: 10px;
+    
 }
 
 .logotext h2{
@@ -35,23 +36,19 @@
     font-size: 14px;
     font-weight: bold;
     margin-left: 15px;
+    text-indent: 10%;
 }
 .navlinks{
-    width: 55%;
-    background-color: blue;
-    
-   
-    
+    width: 70%;
+ 
     
 }
 .nav-text ul {
     display: flex;
    justify-content: space-around;
    padding-top: 30px;
-   
-   
-   
     list-style: none;
 }
-
- 
+.nav-text li {
+    font-weight: 500;
+} 
