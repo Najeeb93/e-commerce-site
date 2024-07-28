@@ -22,3 +22,13 @@ h1{
 .Prdoucts{
     flex-basis: 75%;
 }
+
+.Category-list {
+    margin-top: 20px;
+}
+
+.Category-list label{
+    display: block;
+    padding: 10px 0px;
+
+}
