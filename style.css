@@ -21,6 +21,9 @@ h1{
 
 .Prdoucts{
     flex-basis: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .Category-list {
@@ -29,6 +32,11 @@ h1{
 
 .Category-list label{
     display: block;
-    padding: 10px 0px;
+    padding: 5px 0px;
+}
 
+.Product-Item{
+    flex-basis: 31%;
+    box-shadow: 0px 0px 10px 2px #ccc;
+    margin-bottom: 20px;
 }
